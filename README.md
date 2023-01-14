@@ -10,3 +10,6 @@ The analyse process will be splited out in 3 phases:
 * Understanding the dataset
 * Preparing the dataset
 * Applying and testing the regression
+
+![](https://github.com/fabiohsst/Portfolio/blob/main/images/passengers_prediction.png)
+
